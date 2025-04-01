@@ -78,5 +78,19 @@ This part of the project is designed to add an extra layer of engagement by comb
 
 ## 📜 License
 
-This project is released under an open license with no usage restrictions. Feel free to use, modify, and distribute the project as needed. We encourage community contributions and creative evolution, so go ahead and make this project your own! 🤝💡
+This project was made for educational purposes.
+
+**Main Licenses:**
+
+- **Yt-dlp**: Unlicense license [<button>GitHub</button>](https://github.com/yt-dlp/yt-dlp)
+- **Wan-ai**: Apache-2.0 license [<button>GitHub</button>](https://github.com/Wan-Video/Wan2.1)
+- **Sana**: Apache License 2.0 [<button>GitHub</button>](https://github.com/Wan-Video/Wan2.1)
+- **Diffusers**: Apache-2.0 license [<button>GitHub</button>](https://github.com/huggingface/diffusers)
+- **Stability_AI (SD_XL)**: MIT license [<button>GitHub</button>](https://github.com/Stability-AI/generative-models)
+- **Google Gemini and ElevenLabs**: Terms and conditions of their respective pages.
+- **Note**: Some of the models in the test area were imported from Hugging Face, check their respective licences
+
+
+As for me, nothing more than the license in my project.
+
 
