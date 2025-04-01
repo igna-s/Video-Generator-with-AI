@@ -88,7 +88,7 @@ This project was made for educational purposes.
 - **Diffusers**: Apache-2.0 license [<button>GitHub</button>](https://github.com/huggingface/diffusers)
 - **Stability_AI (SD_XL)**: MIT license [<button>GitHub</button>](https://github.com/Stability-AI/generative-models)
 - **SadTalker**: Apache 2.0 License (except for third-party components) [<button>GitHub</button>](https://github.com/OpenTalker/SadTalker?tab=License-1-ov-file#readme)
-- **NCS** [<button>Page</button>](https://ncs.io/ ) . Credits to ther respective authors
+- **NCS** [<button>Page</button>](https://ncs.io/ ) . Credits to their respective authors (On and On, Heroes Tonight)
 - **Google Gemini and ElevenLabs**: Terms and conditions of their respective pages when you get their api keys.
 - **Note**: Some of the models in the test area were imported from Hugging Face, check their respective licences.
 
