@@ -8,23 +8,17 @@
 
 - Watch some of the videos 
 <div align="center">
-  <a href="Tests/video.mp4"><img src="https://img.shields.io/static/v1?label=Watch&message=Video_I&color=yellow&logo=youtube"></a> &ensp;
-  <a href="Tests/video_final_vertical_sana.mp4"><img src="https://img.shields.io/static/v1?label=Watch&message=Video_II&color=blue&logo=youtube"></a> &ensp;
-  <a href="Tests/video_sana_2.mp4"><img src="https://img.shields.io/static/v1?label=Watch&message=Video_III&color=orange&logo=youtube"></a> &ensp;
-</div>
-
-
-<div align="center">
-  <a href="https://raw.githubusercontent.com/igna-s/Video-Generator-with-AI/main/Tests/video.mp4" target="_blank">
+  <a href="https://raw.githubusercontent.com/igna-s/Video-Generator-with-AI/main/Previews/video_preview.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Watch&message=Video_I&color=yellow&logo=youtube">
   </a> &ensp;
-  <a href="https://raw.githubusercontent.com/igna-s/Video-Generator-with-AI/main/Tests/video_final_vertical_sana.mp4" target="_blank">
+  <a href="https://raw.githubusercontent.com/igna-s/Video-Generator-with-AI/main/Previews/video_preview_II.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Watch&message=Video_II&color=blue&logo=youtube">
   </a> &ensp;
-  <a href="https://raw.githubusercontent.com/igna-s/Video-Generator-with-AI/main/Tests/video_sana_2.mp4" target="_blank">
+  <a href="https://raw.githubusercontent.com/igna-s/Video-Generator-with-AI/main/Previews/video_preview_III.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Watch&message=Video_III&color=orange&logo=youtube">
   </a> &ensp;
 </div>
+
 
 ---
 
