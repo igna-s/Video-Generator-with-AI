@@ -8,13 +8,13 @@
 
 - Watch some of the videos 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/igna-s/Video-Generator-with-AI/main/Previews/video_preview.html" target="_blank">
+  <a href="https://igna-s.github.io/Video-Generator-with-AI/Previews/video_preview.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Watch&message=Video_I&color=yellow&logo=youtube">
   </a> &ensp;
-  <a href="https://raw.githubusercontent.com/igna-s/Video-Generator-with-AI/main/Previews/video_preview_II.html" target="_blank">
+  <a href="https://igna-s.github.io/Video-Generator-with-AI/Previews/video_previewII.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Watch&message=Video_II&color=blue&logo=youtube">
   </a> &ensp;
-  <a href="https://raw.githubusercontent.com/igna-s/Video-Generator-with-AI/main/Previews/video_preview_III.html" target="_blank">
+  <a href="https://igna-s.github.io/Video-Generator-with-AI/Previews/video_previewIII.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Watch&message=Video_III&color=orange&logo=youtube">
   </a> &ensp;
 </div>
