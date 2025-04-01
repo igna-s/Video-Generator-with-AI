@@ -76,7 +76,7 @@ This part of the project is designed to add an extra layer of engagement by comb
 
 ---
 
-## 📜 License
+## 📜 Licenses and Mentions
 
 This project was made for educational purposes.
 
@@ -88,8 +88,9 @@ This project was made for educational purposes.
 - **Diffusers**: Apache-2.0 license [<button>GitHub</button>](https://github.com/huggingface/diffusers)
 - **Stability_AI (SD_XL)**: MIT license [<button>GitHub</button>](https://github.com/Stability-AI/generative-models)
 - **SadTalker**: Apache 2.0 License (except for third-party components) [<button>GitHub</button>](https://github.com/OpenTalker/SadTalker?tab=License-1-ov-file#readme)
-- **Google Gemini and ElevenLabs**: Terms and conditions of their respective pages.
-- **Note**: Some of the models in the test area were imported from Hugging Face, check their respective licences
+- **NCS** [<button>Page</button>](https://ncs.io/ ) 
+- **Google Gemini and ElevenLabs**: Terms and conditions of their respective pages when you get their api keys.
+- **Note**: Some of the models in the test area were imported from Hugging Face, check their respective licences.
 
 
 As for me, nothing more than the license in my project.
