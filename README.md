@@ -87,6 +87,7 @@ This project was made for educational purposes.
 - **Sana**: Apache License 2.0 [<button>GitHub</button>](https://github.com/Wan-Video/Wan2.1)
 - **Diffusers**: Apache-2.0 license [<button>GitHub</button>](https://github.com/huggingface/diffusers)
 - **Stability_AI (SD_XL)**: MIT license [<button>GitHub</button>](https://github.com/Stability-AI/generative-models)
+- **SadTalker**: Apache 2.0 License (except for third-party components) [<button>GitHub</button>](https://github.com/OpenTalker/SadTalker?tab=License-1-ov-file#readme)
 - **Google Gemini and ElevenLabs**: Terms and conditions of their respective pages.
 - **Note**: Some of the models in the test area were imported from Hugging Face, check their respective licences
 
